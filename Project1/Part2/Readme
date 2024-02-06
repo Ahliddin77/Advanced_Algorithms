@@ -1,0 +1,3 @@
+The given code supports the Brute-Force and Sunday wildcard matching algorithms, as well as the 
+escape character '' and wildcard characters '?' and '*'. The program then runs these algorithms on a 
+given text using four different patterns and reports the results.
