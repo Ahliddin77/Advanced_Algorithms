@@ -1,0 +1,4 @@
+The function attempts to identify whether a duplicate corner exists in a given image. A corner is defined 
+as a KxK submatrix in the upper-right corner of the image. The code determines if the image has two 
+identical corners. 
+The code returns "Duplicate corner: No," indicating that there are no duplicate corners in the provided image.
