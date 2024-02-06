@@ -1,0 +1,6 @@
+Separate Chaining, Linear Probing, and Double Hashing are the three hash table implementations used in
+the code. The code compares search and insert times for each implementation under various load 
+conditions. The code's main objective is to compare the performance (search and insert times) of the three hash 
+table implementations under varying load conditions. Divide the number of items by the table size to get
+the load factor. You may see and compare the performance of the hash tables under different conditions 
+by adjusting the numElements and capacity settings in the main function.
