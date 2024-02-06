@@ -1,0 +1,6 @@
+In the Triwizard Tournament, code solves the challenge of predicting which wizard will reach the exit first.
+The approach uses the BFS idea to determine the shortest path to the exit for each wizard. It picks the 
+winner based on the least overall time for each wizard by dividing the shortest path distance by their 
+speed.If a winner is discovered, the program displays "Wizard X wins the Triwizard Tournament!" where 
+X is the victorious wizard's index plus one. If no winner is identified (i.e., no wizard can reach the exit), it 
+returns "No winner." Any wizard cannot reach the exit."
