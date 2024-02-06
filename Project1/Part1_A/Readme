@@ -1,0 +1,11 @@
+Findings:
+We may see the following patterns based on the output:
+ The execution time of all algorithms typically increases as the length of the text grows.
+ The brute-force approach has the shortest time to execute for shorter text lengths but grows 
+slower as text length rises.
+ The Sunday method regularly outperforms other algorithms over a wide range of text lengths.
+ The KMP method also runs well and has a very consistent execution time across varying text 
+lengths.
+ For all text lengths, the Rabin-Karp method takes longer to execute than the other algorithms.
+ The execution time of the Gusfield Z algorithm is comparable to that of the KMP and Sunday 
+algorithms
