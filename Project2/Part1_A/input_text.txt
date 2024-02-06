@@ -1,0 +1,4 @@
+Ths is a sampl text file with some words spelled incorectly.
+Me spell rite. Thes ar mistaked werds.
+There may also be some correctly spelled words mixed in.
+Let's see how the spell checker performs!
