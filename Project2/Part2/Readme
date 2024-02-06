@@ -1,0 +1,4 @@
+The code handles the challenge of organizing a sitting plan for Aunt Petunia's birthday celebration.
+To investigate alternative seating configurations, the solution employs a recursive DFS algorithm. It uses 
+the isValidSeat method to validate each guest-seat assignment and returns when there is a dispute. The 
+algorithm will keep running until a proper arrangement is identified or all options have been explored.
