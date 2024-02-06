@@ -1,0 +1,7 @@
+Implementations of four string pattern matching algorithms are included in the code: Binary Sunday, 
+Gusfield Z, Knuth-Morris-Pratt (KMP), and Rabin-Karp. The main function calculates the time it takes 
+each method to match a given pattern inside a text.
+
+The output shows that the 
+execution times for the algorithms drop from Binary Sunday to Gusfield Z, KMP, and Rabin-Karp, in that 
+order. This shows that Rabin-Karp is the quickest of the four algorithms for the given input.
